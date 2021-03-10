@@ -8,6 +8,7 @@ namespace BDDAutomationFinaly.Steps
     [Binding]
     public sealed class StepDefinition
     {
+
         // For additional details on SpecFlow step definitions see https://go.specflow.org/doc-stepdef
 
         private readonly ScenarioContext _scenarioContext;
